@@ -1,11 +1,11 @@
-# Microserviço de envio de e-mail
+# Email Microservice
 ## Desafio de Backend da Uber
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
-Este projeto é uma API construída usando **Java, Java Spring, AWS Simple Email Service.** Utilizando uma arquitetura limpa.
+Este projeto é uma API construída usando **Java, Spring Boot, AWS Simple Email Service.** Utilizando uma arquitetura limpa.
 
 O Microserviço foi desenvolvido  para demonstrar como resolver o [Desafio de Backend da Uber](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md).
 
